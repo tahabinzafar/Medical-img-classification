@@ -50,7 +50,7 @@ This folder contains breast cancer sample images for testing purposes.
 
 This folder contains labelled blood cells types for testing purposes.
 
-### 6. COURSE WORK-2-Group-14-Report.docx (Project Final Report) 
+### 6. Report.docx (Project Final Report) 
 
 Project Final Report can be found in "COURSE WORK-2-Group-14-Report.docx".
 
