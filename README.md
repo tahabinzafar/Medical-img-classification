@@ -8,7 +8,7 @@ The end goal is to create a web interface that allows users to upload medical da
 
 ## RUNNING WEB APPLICATION
 
-To run the web application, download all dependencies from requirements.txt and then run following command in the cli of project directory:
+To run the web application, type following command in the cli of project directory:
 
 ```bash
   streamlit run app.py
